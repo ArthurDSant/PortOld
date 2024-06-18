@@ -44,11 +44,11 @@ theme.addEventListener('click', () => {
 
 // 
 
- var logoLight = 'src/img/logo-blue.svg'
- var logoDark = 'src/img/logo-black.svg'
- function logoTheme () {
-     document.getElementById('a').src = logoDark;
-     let aux = logoDark;
-     logoDark = logoLight;
-     logoLight = aux;
-}
+//  var logoLight = 'src/public/logo-blue.svg'
+//  var logoDark = 'src/public/logo-black.svg'
+//  function logoTheme () {
+//      document.getElementById('a').src = logoDark;
+//      let aux = logoDark;
+//      logoDark = logoLight;
+//      logoLight = aux;
+// }
